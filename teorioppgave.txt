@@ -1,0 +1,12 @@
+Oppgave 3, oblig 6 - Teorioppgave
+
+1. Hva er innkapsling? Hvorfor er det nyttig?
+Innkapsling er et prinsipp som handler om at man som programmerer kun har tilgang til noen metoder i en klasse. Det avgrenser hvilke datatyper og regler for behandling som gjelder for den bestemte klassen av objekter, og dette er nyttig da man kun har tilgang til den informasjonen man trenger og annen data blir skjult. Det er også nyttig da du kan endre en klasse med innkapsling uten at koden endres. Dette gjelder kun da grensesnittet er det samme, men bidrar til at objekter enkelt kan tas i bruk av andre.
+
+2. Hva er grensesnittet til en klasse? Hvordan skiller det seg fra implementasjonen av
+en klasse?
+Grensesnittet til en klasse er de gitte metodene som tilbys til bruker/programmereren. Dette er fordi det er gjennom metodene interaksjonen med brukerne foregår. Det som skiller dette fra implementasjonen av en klasse er at grensesnittet kun handler om metodene, mens implementasjonen også tar for seg hele oppbyggingen av klassen.
+
+3. Hva er en instansmetode (ofte kalt bare metode), og hvordan skiller metoder seg fra
+prosedyrene/funksjonene vi har jobbet med hittil?
+En instansmetode er en metode som defineres inne i en klasse. Prosedyrer og funksjoner befinner seg på utsiden av objekter og kan ikke benytte instansvariabler slik instansmetodene kan.

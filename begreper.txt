@@ -1,0 +1,24 @@
+Oppgave 5, oblig 6 - Viktige begreper
+
+A. Klassedefinisjon:
+  1-16
+
+B. Opprettelse av et nytt objekt:
+  19
+
+C. Definisjon av instansvariabel:
+  3
+
+D. Definisjon av instansmetode:
+ 7-9
+ 11-13
+ 15-16
+
+E. Definisjon av konstruktør:
+  2-5
+
+F. Kall på instansmetode:
+  21
+
+G. Argumenter:
+  19
